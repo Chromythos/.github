@@ -2,7 +2,7 @@
 
 ***“빛과 색의 신화가 세계를 만든다.”***
 
-**Chromythos**는 신화, 감정, 과학이 빛과 색을 통해 하나로 융합되는 게임 개발 조직입니다.
+**Chromythe**는 신화, 감정, 과학이 빛과 색을 통해 하나로 융합되는 게임 개발 조직입니다.
 우리는 이야기가 언어가 아니라 스펙트럼에서 태어날 수 있다는 가능성을 탐구합니다 —
 존재가 ‘보는 것’, ‘느끼는 것’, 그리고 ‘창조하는 것’으로 정의되는 세계를 만듭니다.
 
@@ -16,15 +16,15 @@ Chromythos의 모든 프로젝트는 디자인, 공학, 서사를 하나의 연�
 색은 세계를 기록하는 언어입니다.
 
 > 우리는 단순히 게임을 만드는 것이 아닙니다.<br>
-> 우리는 빛이 스스로의 이야기를 기억하는 우주를 작곡합니다.
+> 우리는 자신의 이야기를 되새기는 빛의 우주를 색으로 새깁니다.
 
 <br>
 
-## 🌈 Chromythos
+## 🌈 Chromythe
 
 ***“The myth of light and color creates worlds.”***
 
-**Chromythos** is a creative game development organization where mythology, emotion, and science converge through light and color.
+**Chromythe** is a creative game development organization where mythology, emotion, and science converge through light and color.
 We explore how stories can emerge not from words, but from spectrums — how existence itself can be defined by what we see, feel, and create.
 
 Our worlds are experiments of convergence:
@@ -36,4 +36,5 @@ Every project under Chromythos is an attempt to unify design, engineering, and n
 We believe that light is not just illumination, but the origin of myth —
 and color is the code through which worlds are written.
 
-> We do not merely build games — we compose universes where light remembers its own story.
+> We do not merely build games.<br>
+> We inscribe the universe of light that remembers its own story, in color.
